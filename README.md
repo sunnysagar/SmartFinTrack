@@ -1,20 +1,8 @@
 # SMART FINANCE TRACKER
 
 ## Objective
-The primary objective of the finance management system is to help users efficiently manage their finances by providing tools to estimate and track daily, weekly, and monthly expenses. The system aims to keep users informed about their spending patterns and assist them in making informed financial decisions.
+The primary objective of the **Finance Management System** is to help users efficiently manage their finances by providing tools to estimate and track daily, weekly, and monthly expenses. The system aims to keep users informed about their spending patterns and assist them in making informed financial decisions.
 
-## Technologies Used
-- **Backend:**
-  - Java Spring Boot for RESTful API development
-  - Spring Data JPA for database interactions
-  - Spring Security for authentication and authorization
-  - MySQL for data storage
-  - Spring Scheduler for notifications
-  - Maven for project management
-
-- **Frontend (Future Scope):**
-  - React.js for user interface
-  - Axios for HTTP requests
 
 ## Motivation
 Managing finances can be a daunting task for many individuals. This project aims to simplify the process by providing a user-friendly platform that allows users to estimate their expenses, track their spending, and receive timely notifications to update their records. By automating these tasks, users can focus more on analyzing their financial habits and planning for the future.
@@ -35,6 +23,20 @@ Managing finances can be a daunting task for many individuals. This project aims
 ### Expense Reporting
 - Generate and view reports for different periods
 - Compare actual expenses with estimates
+
+
+## Technologies Used
+- **Backend:**
+  - Java Spring Boot for RESTful API development
+  - Spring Data JPA for database interactions
+  - Spring Security for authentication and authorization
+  - MySQL for data storage
+  - Spring Scheduler for notifications
+  - Maven for project management
+
+- **Frontend (Future Scope):**
+  - React.js for user interface
+  - Axios for HTTP requests
 
 ## Future Scope
 ### Advanced Analytics
