@@ -1,7 +1,7 @@
 # SMART FINANCE TRACKER
 
 ## Objective
-The Finance Management System is designed to help users efficiently manage their finances by estimating and tracking daily, weekly, and monthly expenses, and providing timely notifications and insights.
+The primary objective of the finance management system is to help users efficiently manage their finances by providing tools to estimate and track daily, weekly, and monthly expenses. The system aims to keep users informed about their spending patterns and assist them in making informed financial decisions.
 
 ## Technologies Used
 - **Backend:**
@@ -17,7 +17,7 @@ The Finance Management System is designed to help users efficiently manage their
   - Axios for HTTP requests
 
 ## Motivation
-To simplify financial management by providing tools for users to estimate and track expenses, helping them make informed financial decisions.
+Managing finances can be a daunting task for many individuals. This project aims to simplify the process by providing a user-friendly platform that allows users to estimate their expenses, track their spending, and receive timely notifications to update their records. By automating these tasks, users can focus more on analyzing their financial habits and planning for the future.
 
 ## Features
 ### User Authentication
